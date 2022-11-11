@@ -1,0 +1,13 @@
+My Cipher-
+
+1. Every odd index shifts backwards 4 letters
+2. Every even index shifts forwards 3 letters
+3. Index 0 is even.
+4. Spaces count as an index point.
+
+
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+
+I love cryptography!
+l okya yuusprcuwsdb!
+fbfbfbfbfbfbfbfbfbf
